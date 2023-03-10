@@ -12,8 +12,6 @@
   <p align="center">Please check the <a href="Contribution.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 </div>
 
-![image](https://user-images.githubusercontent.com/45455218/224287885-97c014fd-dd5f-48d5-b2e9-c427b8afff25.png)
-
 # Table of Contents
 
 - Integrations
