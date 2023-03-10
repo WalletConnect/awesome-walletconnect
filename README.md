@@ -90,6 +90,7 @@ These following libraries integrate WalletConnect
 - [Unity Wallet SDK](https://github.com/WalletConnect/WalletConnectSharp/tree/1.0): An implementation of the WalletConnect protocol (currently only v1) using .NET and (optinoally) NEthereum
 - [WalletConnect Dart](https://github.com/Orange-Wallet/wallet-connect-dart): Wallet Connect client in dart highly inspired from wallet-connect-kotlin by Trust Wallet.
 - [Flutter Web3 Demo](https://gitlab.com/graflr/flutter_web3_demo): Flutter Web3 Starter App for learning Web3 on Flutter using Sign V2
+- [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900): Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
 
 # Tutorials
 
