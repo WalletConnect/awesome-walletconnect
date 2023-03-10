@@ -74,6 +74,8 @@ Wallets
 - [V2 Swift Wallet](https://github.com/WalletConnect/WalletConnectSwiftV2/tree/main/Example)
 - [V2 Kotlin Wallet](https://github.com/WalletConnect/WalletConnectKotlinV2/tree/develop/samples)
 
+V1
+
 - [V1 React dApp](https://example.walletconnect.org/)
 
 # Libraries
