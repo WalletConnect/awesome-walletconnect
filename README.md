@@ -87,7 +87,7 @@ These following libraries integrate WalletConnect
 - [web3-react](https://github.com/Uniswap/web3-react)
 - [wagmi](https://wagmi.sh/)
 - [web3-onboard](https://onboard.blocknative.com/)
-- [rainbowkit](https://www.rainbowkit.com/)
+- [RainbowKit](https://www.rainbowkit.com/)
 - [ConnectKit](https://docs.family.co/connectkit)
 
 # Community SDKs
