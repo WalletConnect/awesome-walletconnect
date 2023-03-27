@@ -64,6 +64,7 @@ dApp
 - [V2 Sign React dApp](https://react-app.walletconnect.com/)
 - [V2 Auth React dApp](https://react-auth-dapp.walletconnect.com/)
 - [V2 Auth Vue dApp](https://vue-dapp-auth.vercel.app/)
+- [V2 React Native dapp](https://github.com/WalletConnect/react-native-examples)
 
 Wallets
 
@@ -73,6 +74,7 @@ Wallets
 - [V2 Auth React Wallet](https://react-auth-wallet.vercel.app/)
 - [V2 Swift Wallet](https://github.com/WalletConnect/WalletConnectSwiftV2/tree/main/Example)
 - [V2 Kotlin Wallet](https://github.com/WalletConnect/WalletConnectKotlinV2/tree/develop/samples)
+- [V2 React Native Wallet](https://github.com/WalletConnect/react-native-examples)
 
 V1
 
@@ -84,6 +86,9 @@ These following libraries integrate WalletConnect
 
 - [web3-react](https://github.com/Uniswap/web3-react)
 - [wagmi](https://wagmi.sh/)
+- [web3-onboard](https://onboard.blocknative.com/)
+- [rainbowkit](https://www.rainbowkit.com/)
+- [ConnectKit](https://docs.family.co/connectkit)
 
 # Community SDKs
 
