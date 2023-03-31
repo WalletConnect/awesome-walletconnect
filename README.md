@@ -89,6 +89,7 @@ These following libraries integrate WalletConnect
 - [web3-onboard](https://onboard.blocknative.com/)
 - [RainbowKit](https://www.rainbowkit.com/)
 - [ConnectKit](https://docs.family.co/connectkit)
+- [Dynamic](https://www.dynamic.xyz)
 
 # Community SDKs
 
