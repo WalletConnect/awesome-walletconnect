@@ -107,3 +107,5 @@ V2
 - [Web3Modal V2: Create a NFT Minting site with W3MV2 and wagmi](https://www.youtube.com/watch?v=SViUpuwLKzc&ab_channel=TomTerado): Create a NFT Minting site with Web3Modal and wagmi
 
 # Articles and Videos
+
+- [Connecting your Mobile Apps with your Web3 Identity](https://medium.com/@hira.siddiqui/connecting-your-mobile-apps-with-your-web3-identity-ef0416033419): Tutorial to use WalletConnect Signv2 in Kotlin to connect your Android app with your Crypto Wallet.
