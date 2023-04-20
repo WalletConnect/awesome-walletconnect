@@ -97,6 +97,7 @@ These following libraries integrate WalletConnect
 - [WalletConnect Dart](https://github.com/Orange-Wallet/wallet-connect-dart): Wallet Connect client in dart highly inspired from wallet-connect-kotlin by Trust Wallet.
 - [Flutter Web3 Demo](https://gitlab.com/graflr/flutter_web3_demo): Flutter Web3 Starter App for learning Web3 on Flutter using Sign V2
 - [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900): Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
+- [Blazor-Web3Modal](https://github.com/pingu2k4/blazor-web3modal) - Unofficial library providing full access to Web3Modal in Blazor without requiring any javascript.
 
 # Tutorials
 
