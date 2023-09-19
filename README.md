@@ -18,14 +18,6 @@ The complete list of Wallets and dApps that have integrated WalletConnect can be
 
 You have the option to filter via dapp/wallets, chains and SDK support.
 
-# WalletConnect Stack
-
-SDKs
-
-- [Web3Modal](https://web3modal.com/)
-- [Web3Wallet](https://docs.walletconnect.com/2.0/web3wallet/about)
-- [Web3Inbox](https://docs.walletconnect.com/2.0/web3inbox/about)
-
 # Community 
 
 ## SDKs
@@ -37,7 +29,7 @@ SDKs
 
 ## Examples
 
-- [Web3Modal Angular](https://github.com/csurbier/walletconnectv2-angular)
+- [Web3Modal Angular](https://github.com/csurbier/walletconnectv2-angular) - Web3Modal v2 Angular integration example.
 
 ## Tutorials
 
