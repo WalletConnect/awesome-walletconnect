@@ -35,7 +35,7 @@ SDKs
 - [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900) - Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
 - [Blazor-Web3Modal](https://github.com/pingu2k4/blazor-web3modal) - Unofficial library providing full access to Web3Modal in Blazor without requiring any javascript.
 
-## Community Examples
+## Examples
 
 - [Web3Modal Angular](https://github.com/csurbier/walletconnectv2-angular)
 
@@ -49,7 +49,7 @@ SDKs
 
 - [Connecting your Mobile Apps with your Web3 Identity](https://medium.com/@hira.siddiqui/connecting-your-mobile-apps-with-your-web3-identity-ef0416033419) - Tutorial to use WalletConnect Signv2 in Kotlin to connect your Android app with your Crypto Wallet.
 
-# Third Party Libraries
+# Libraries
 
 These following libraries integrate WalletConnect
 
