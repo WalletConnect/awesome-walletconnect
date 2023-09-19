@@ -26,7 +26,30 @@ SDKs
 - [Web3Wallet](https://docs.walletconnect.com/2.0/web3wallet/about)
 - [Web3Inbox](https://docs.walletconnect.com/2.0/web3inbox/about)
 
-# Libraries
+# Community 
+
+## SDKs
+
+- [WalletConnect Dart](https://github.com/Orange-Wallet/wallet-connect-dart) - Wallet Connect client in dart highly inspired from wallet-connect-kotlin by Trust Wallet.
+- [Flutter Web3 Demo](https://gitlab.com/graflr/flutter_web3_demo) - Flutter Web3 Starter App for learning Web3 on Flutter using Sign V2
+- [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900) - Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
+- [Blazor-Web3Modal](https://github.com/pingu2k4/blazor-web3modal) - Unofficial library providing full access to Web3Modal in Blazor without requiring any javascript.
+
+## Community Examples
+
+- [Web3Modal Angular](https://github.com/csurbier/walletconnectv2-angular)
+
+## Tutorials
+
+- [WalletConnect Sign: Video tutorial for JavaScript developers](https://www.youtube.com/watch?v=jRaAy-hykLU&ab_channel=WalletConnect) - Introduction tutorial for WalletConnect v2.0 Sign SDK!
+- [Web3Modal Quickstart Tutorial](https://www.youtube.com/watch?v=VLNIMfiUtyw&ab_channel=WalletConnect) - Quickstart guide on how to install Web3Modal
+- [Web3Modal V2: Create a NFT Minting site with W3MV2 and wagmi](https://www.youtube.com/watch?v=SViUpuwLKzc&ab_channel=TomTerado) - Create a NFT Minting site with Web3Modal and wagmi
+
+## Articles and Videos
+
+- [Connecting your Mobile Apps with your Web3 Identity](https://medium.com/@hira.siddiqui/connecting-your-mobile-apps-with-your-web3-identity-ef0416033419) - Tutorial to use WalletConnect Signv2 in Kotlin to connect your Android app with your Crypto Wallet.
+
+# Third Party Libraries
 
 These following libraries integrate WalletConnect
 
@@ -36,22 +59,3 @@ These following libraries integrate WalletConnect
 - [RainbowKit](https://www.rainbowkit.com/)
 - [ConnectKit](https://docs.family.co/connectkit)
 - [Dynamic](https://www.dynamic.xyz)
-
-# Community SDKs
-
-- [WalletConnect Dart](https://github.com/Orange-Wallet/wallet-connect-dart): Wallet Connect client in dart highly inspired from wallet-connect-kotlin by Trust Wallet.
-- [Flutter Web3 Demo](https://gitlab.com/graflr/flutter_web3_demo): Flutter Web3 Starter App for learning Web3 on Flutter using Sign V2
-- [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900): Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
-- [Blazor-Web3Modal](https://github.com/pingu2k4/blazor-web3modal) - Unofficial library providing full access to Web3Modal in Blazor without requiring any javascript.
-
-# Community Examples
-
-# Tutorials
-
-- [WalletConnect Sign: Video tutorial for JavaScript developers](https://www.youtube.com/watch?v=jRaAy-hykLU&ab_channel=WalletConnect): Introduction tutorial for WalletConnect v2.0 Sign SDK!
-- [Web3Modal Quickstart Tutorial](https://www.youtube.com/watch?v=VLNIMfiUtyw&ab_channel=WalletConnect): Quickstart guide on how to install Web3Modal
-- [Web3Modal V2: Create a NFT Minting site with W3MV2 and wagmi](https://www.youtube.com/watch?v=SViUpuwLKzc&ab_channel=TomTerado): Create a NFT Minting site with Web3Modal and wagmi
-
-# Articles and Videos
-
-- [Connecting your Mobile Apps with your Web3 Identity](https://medium.com/@hira.siddiqui/connecting-your-mobile-apps-with-your-web3-identity-ef0416033419): Tutorial to use WalletConnect Signv2 in Kotlin to connect your Android app with your Crypto Wallet.
