@@ -98,6 +98,7 @@ These following libraries integrate WalletConnect
 - [Flutter Web3 Demo](https://gitlab.com/graflr/flutter_web3_demo): Flutter Web3 Starter App for learning Web3 on Flutter using Sign V2
 - [Bubble NoCode WalletConnect Solution](https://bubble.io/plugin/walletconnect-official-1666178128464x529020524869713900): Official WalletConnect plugin for Bubble made by NovaBloq in collaboration with the WalletConnect team
 - [Blazor-Web3Modal](https://github.com/pingu2k4/blazor-web3modal) - Unofficial library providing full access to Web3Modal in Blazor without requiring any javascript.
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 
 # Tutorials
 
