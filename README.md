@@ -71,7 +71,6 @@ Wallets
 - [V2 React Web3Wallet](https://react-wallet.walletconnect.com/)
 - [V2 Sign React Wallet](https://react-wallet.walletconnect.com/)
 - [V2 Chat React Wallet](https://react-wallet-chat.walletconnect.com/)
-- [V2 Auth React Wallet](https://react-auth-wallet.vercel.app/)
 - [V2 Swift Wallet](https://github.com/WalletConnect/WalletConnectSwiftV2/tree/main/Example)
 - [V2 Kotlin Wallet](https://github.com/WalletConnect/WalletConnectKotlinV2/tree/develop/samples)
 - [V2 React Native Wallet](https://github.com/WalletConnect/react-native-examples)
