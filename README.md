@@ -63,7 +63,6 @@ dApp
 
 - [V2 Sign React dApp](https://react-app.walletconnect.com/)
 - [V2 Auth React dApp](https://react-auth-dapp.walletconnect.com/)
-- [V2 Auth Vue dApp](https://vue-dapp-auth.vercel.app/)
 - [V2 React Native dapp](https://github.com/WalletConnect/react-native-examples)
 
 Wallets
